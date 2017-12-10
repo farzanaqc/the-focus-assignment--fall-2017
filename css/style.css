@@ -10,7 +10,7 @@ body {
 }
 section:nth-of-type(1) {
 
-   background: url('../large-banner-image.png')no-repeat 0 0 / cover;
+   background: url('img/large-banner-image.png')no-repeat 0 0 / cover;
 
    width: 1600px;
    height:700px;
